@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rgdev\\Health\\Health\\Health.csproj": {}
+    "C:\\Users\\rgdev\\health_pos\\Health\\Health.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rgdev\\Health\\Health\\Health.csproj": {
+    "C:\\Users\\rgdev\\health_pos\\Health\\Health.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rgdev\\Health\\Health\\Health.csproj",
+        "projectUniqueName": "C:\\Users\\rgdev\\health_pos\\Health\\Health.csproj",
         "projectName": "Health",
-        "projectPath": "C:\\Users\\rgdev\\Health\\Health\\Health.csproj",
+        "projectPath": "C:\\Users\\rgdev\\health_pos\\Health\\Health.csproj",
         "packagesPath": "C:\\Users\\rgdev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rgdev\\Health\\Health\\obj\\",
+        "outputPath": "C:\\Users\\rgdev\\health_pos\\Health\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgdev\\AppData\\Roaming\\NuGet\\NuGet.Config",

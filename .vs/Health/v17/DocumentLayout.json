@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rgdev\\health_pos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463E78EE-851F-43F8-AF55-7009C6DB3BF4}|Health\\Health.csproj|c:\\users\\rgdev\\health_pos\\health\\controllers\\procedure\\procedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463E78EE-851F-43F8-AF55-7009C6DB3BF4}|Health\\Health.csproj|solutionrelative:health\\controllers\\procedure\\procedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463E78EE-851F-43F8-AF55-7009C6DB3BF4}|Health\\Health.csproj|c:\\users\\rgdev\\health_pos\\health\\controllers\\doctor\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463E78EE-851F-43F8-AF55-7009C6DB3BF4}|Health\\Health.csproj|solutionrelative:health\\controllers\\doctor\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463E78EE-851F-43F8-AF55-7009C6DB3BF4}|Health\\Health.csproj|c:\\users\\rgdev\\health_pos\\health\\controllers\\paymentmethod\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463E78EE-851F-43F8-AF55-7009C6DB3BF4}|Health\\Health.csproj|solutionrelative:health\\controllers\\paymentmethod\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcedureController.cs",
+              "DocumentMoniker": "C:\\Users\\rgdev\\health_pos\\Health\\Controllers\\Procedure\\ProcedureController.cs",
+              "RelativeDocumentMoniker": "Health\\Controllers\\Procedure\\ProcedureController.cs",
+              "ToolTip": "C:\\Users\\rgdev\\health_pos\\Health\\Controllers\\Procedure\\ProcedureController.cs",
+              "RelativeToolTip": "Health\\Controllers\\Procedure\\ProcedureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:06:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "C:\\Users\\rgdev\\health_pos\\Health\\Controllers\\PaymentMethod\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "Health\\Controllers\\PaymentMethod\\PaymentMethodController.cs",
+              "ToolTip": "C:\\Users\\rgdev\\health_pos\\Health\\Controllers\\PaymentMethod\\PaymentMethodController.cs",
+              "RelativeToolTip": "Health\\Controllers\\PaymentMethod\\PaymentMethodController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:05:15.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\rgdev\\health_pos\\Health\\Controllers\\Doctor\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Health\\Controllers\\Doctor\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\rgdev\\health_pos\\Health\\Controllers\\Doctor\\DoctorController.cs",
+              "RelativeToolTip": "Health\\Controllers\\Doctor\\DoctorController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwE4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:03:14.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
